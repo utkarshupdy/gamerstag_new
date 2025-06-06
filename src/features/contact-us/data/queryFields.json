@@ -1,0 +1,96 @@
+{
+  "Join as Mentor": [
+    { "label": "Name", "type": "text", "name": "name" },
+    { "label": "Email", "type": "email", "name": "email" },
+    { "label": "Phone Number (Optional)", "type": "text", "name": "phone" },
+    { "label": "LinkedIn", "type": "url", "name": "linkedin" },
+    {
+      "label": "Your Profile Headline",
+      "type": "text",
+      "name": "profileHeadline"
+    },
+    {
+      "label": "Why you wanted to be a mentor?",
+      "type": "textarea",
+      "name": "message"
+    }
+  ],
+  "College Partnership": [
+    {
+      "label": "Contacting Person Name",
+      "type": "text",
+      "name": "contactName"
+    },
+    { "label": "Email", "type": "email", "name": "email" },
+    { "label": "Phone Number", "type": "text", "name": "phone" },
+    { "label": "College Name", "type": "text", "name": "collegeName" },
+    { "label": "College Website", "type": "url", "name": "collegeWebsite" },
+    { "label": "Message to us", "type": "textarea", "name": "message" }
+  ],
+  "Esports Hosting Partnership": [
+    {
+      "label": "Contacting Person Name",
+      "type": "text",
+      "name": "contactName"
+    },
+    { "label": "Email", "type": "email", "name": "email" },
+    { "label": "Phone Number", "type": "text", "name": "phone" },
+    { "label": "Company/Brand Name", "type": "text", "name": "brandName" },
+    {
+      "label": "Are you:",
+      "type": "select",
+      "name": "userType",
+      "options": ["Brand", "Individual", "Creator"]
+    },
+    {
+      "label": "Company LinkedIn/Instagram/Youtube Profile",
+      "type": "url",
+      "name": "organizerLink"
+    },
+    { "label": "Brand Website", "type": "url", "name": "brandWebsite" },
+    { "label": "Message to us", "type": "textarea", "name": "message" }
+  ],
+  "Brand Partnership": [
+    {
+      "label": "Contacting Person Name",
+      "type": "text",
+      "name": "contactName"
+    },
+    { "label": "Email", "type": "email", "name": "email" },
+    { "label": "Phone Number", "type": "text", "name": "phone" },
+    { "label": "Brand Name", "type": "text", "name": "brandName" },
+    {
+      "label": "Company LinkedIn/Instagram/Youtube Profile",
+      "type": "url",
+      "name": "organizerLink"
+    },
+    { "label": "Brand Website", "type": "url", "name": "brandWebsite" },
+    { "label": "Message to us", "type": "textarea", "name": "message" }
+  ],
+  "Join our Team": [
+    { "label": "Full Name", "type": "text", "name": "fullName" },
+    { "label": "Email", "type": "email", "name": "email" },
+    { "label": "Phone Number", "type": "text", "name": "phone" },
+    { "label": "LinkedIn", "type": "url", "name": "linkedin" },
+    { "label": "Job Role Looking for", "type": "text", "name": "jobRole" },
+    { "label": "Upload Resume", "type": "file", "name": "resume" },
+    { "label": "Message to us", "type": "textarea", "name": "message" }
+  ],
+  "Campus Ambassador": [
+    { "label": "Full Name", "type": "text", "name": "fullName" },
+    { "label": "Email", "type": "email", "name": "email" },
+    { "label": "Phone Number", "type": "text", "name": "phone" },
+    { "label": "Your Campus Name", "type": "text", "name": "campusName" },
+    { "label": "Course & Year", "type": "text", "name": "courseYear" },
+    { "label": "State", "type": "text", "name": "state" },
+    { "label": "Student Id", "type": "text", "name": "studentId" },
+    { "label": "LinkedIn", "type": "url", "name": "linkedin" },
+    { "label": "Upload Resume", "type": "file", "name": "resume" },
+    { "label": "Message to us", "type": "textarea", "name": "message" },
+    {
+      "label": "Why do you want to be a Campus Ambassador?",
+      "type": "textarea",
+      "name": "message"
+    }
+  ]
+}

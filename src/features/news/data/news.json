@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "postBy": "ADMIN",
+    "date": "24 NOV 2024",
+    "image": "/home-personal-assets/images/blog/1.jpg",
+    "description": "Design Inspiration: Where to Find Creative Ideas",
+    "category": "Esport"
+  },
+  {
+    "id": 2,
+    "postBy": "ADMIN",
+    "date": "24 NOV 2024",
+    "image": "/home-personal-assets/images/blog/2.jpg",
+    "description": "Typography: Choosing Fonts for Maximum Impact",
+    "category": "AI"
+  },
+  {
+    "id": 3,
+    "postBy": "ADMIN",
+    "date": "24 NOV 2024",
+    "image": "/home-personal-assets/images/blog/3.jpg",
+    "description": "Design Inspiration: Where to Find Creative Ideas",
+    "category": "Gaming"
+  },
+  {
+    "id": 4,
+    "postBy": "ADMIN",
+    "date": "24 NOV 2024",
+    "image": "/home-personal-assets/images/blog/1.jpg",
+    "description": "Design Inspiration: Where to Find Creative Ideas",
+    "category": "Esport"
+  },
+  {
+    "id": 5,
+    "postBy": "ADMIN",
+    "date": "24 NOV 2024",
+    "image": "/home-personal-assets/images/blog/2.jpg",
+    "description": "Typography: Choosing Fonts for Maximum Impact",
+    "category": "AI"
+  },
+  {
+    "id": 6,
+    "postBy": "ADMIN",
+    "date": "24 NOV 2024",
+    "image": "/home-personal-assets/images/blog/3.jpg",
+    "description": "Design Inspiration: Where to Find Creative Ideas",
+    "category": "Gaming"
+  },
+  {
+    "id": 7,
+    "postBy": "ADMIN",
+    "date": "24 NOV 2024",
+    "image": "/home-personal-assets/images/blog/1.jpg",
+    "description": "Design Inspiration: Where to Find Creative Ideas",
+    "category": "Esport"
+  },
+  {
+    "id": 8,
+    "postBy": "ADMIN",
+    "date": "24 NOV 2024",
+    "image": "/home-personal-assets/images/blog/2.jpg",
+    "description": "Typography: Choosing Fonts for Maximum Impact",
+    "category": "AI"
+  },
+  {
+    "id": 9,
+    "postBy": "ADMIN",
+    "date": "24 NOV 2024",
+    "image": "/home-personal-assets/images/blog/3.jpg",
+    "description": "Design Inspiration: Where to Find Creative Ideas",
+    "category": "Gaming"
+  }
+]

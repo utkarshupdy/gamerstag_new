@@ -1,0 +1,18 @@
+[
+  {
+    "gamerstagServicesIcons": [
+      "/home3-assets/svgs/recording-03.svg",
+      "/home3-assets/svgs/recording-01.svg",
+      "/home3-assets/svgs/disc-02.svg",
+      "/home3-assets/svgs/chrome-cast.svg",
+      "/home3-assets/svgs/sliders-04.svg"
+    ]
+  },
+  {
+    "gamerstagServices": [
+      "Photo generating",
+      "Photo enhance",
+      "Seamless Integration"
+    ]
+  }
+]

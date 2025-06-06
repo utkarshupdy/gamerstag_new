@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "1",
+    "author": "Joshua",
+    "title": "Design Inspiration: Where to Find Creative Ideas",
+    "createdAt": 1736764500605,
+    "thumbnail": "/home-personal-assets/images/blog/1.jpg"
+  },
+  {
+    "_id": "2",
+    "author": "Vishnu",
+    "title": "Typography: Choosing Fonts for Maximum Impact",
+    "createdAt": 1736764500605,
+    "thumbnail": "/home-personal-assets/images/blog/2.jpg"
+  },
+  {
+    "_id": "3",
+    "author": "Hemanth",
+    "title": " Design Inspiration: Where to Find Creative Ideas",
+    "createdAt": 1736764500605,
+    "thumbnail": "/home-personal-assets/images/blog/3.jpg"
+  }
+]

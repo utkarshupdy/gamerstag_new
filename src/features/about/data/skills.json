@@ -1,0 +1,32 @@
+[
+  {
+    "skill": "UI / UX Design",
+    "level": "95%",
+    "image": "/home-personal-assets/images/figma.png"
+  },
+  {
+    "skill": "Development",
+    "level": "90%",
+    "image": "/home-personal-assets/images/coding.png"
+  },
+  {
+    "skill": "Graphics Design",
+    "level": "90%",
+    "image": "/home-personal-assets/images/photoshop.png"
+  },
+  {
+    "skill": "Sketch",
+    "level": "90%",
+    "image": "/home-personal-assets/images/diamond.png"
+  },
+  {
+    "skill": "WordPress",
+    "level": "90%",
+    "image": "/home-personal-assets/images/wordpress.png"
+  },
+  {
+    "skill": "AI",
+    "level": "90%",
+    "image": "/home-personal-assets/images/ai.png"
+  }
+]

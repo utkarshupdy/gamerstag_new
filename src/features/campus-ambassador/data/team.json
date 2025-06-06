@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Harry Abraham",
+      "role": "Founder",
+      "image": "/nft-portal-assets/images/collection.png",
+      "description": "Contrary to popular belief, it is not simply random text. It has roots in classical Latin.",
+      "socialLinks": [
+        { "platform": "Twitter", "link": "https://twitter.com" },
+        { "platform": "Facebook", "link": "https://facebook.com" },
+        { "platform": "LinkedIn", "link": "https://linkedin.com" },
+        { "platform": "Instagram", "link": "https://instagram.com" }
+      ]
+    },
+    {
+      "name": "Anne Haiwk",
+      "role": "Co-Founder",
+      "image": "/nft-portal-assets/images/collection.png",
+      "description": "Contrary to popular belief, it is not simply random text. It has roots in classical Latin.",
+      "socialLinks": [
+        { "platform": "Twitter", "link": "https://twitter.com" },
+        { "platform": "Facebook", "link": "https://facebook.com" },
+        { "platform": "LinkedIn", "link": "https://linkedin.com" },
+        { "platform": "Instagram", "link": "https://instagram.com" }
+      ]
+    },
+    {
+      "name": "Jebeca Rio",
+      "role": "Marketer",
+      "image": "/nft-portal-assets/images/collection.png",
+      "description": "Contrary to popular belief, it is not simply random text. It has roots in classical Latin.",
+      "socialLinks": [
+        { "platform": "Twitter", "link": "https://twitter.com" },
+        { "platform": "Facebook", "link": "https://facebook.com" },
+        { "platform": "LinkedIn", "link": "https://linkedin.com" },
+        { "platform": "Instagram", "link": "https://instagram.com" }
+      ]
+    },
+    {
+      "name": "Anderson Leo",
+      "role": "Advisor",
+      "image": "/nft-portal-assets/images/collection.png",
+      "description": "Contrary to popular belief, it is not simply random text. It has roots in classical Latin.",
+      "socialLinks": [
+        { "platform": "Twitter", "link": "https://twitter.com" },
+        { "platform": "Facebook", "link": "https://facebook.com" },
+        { "platform": "LinkedIn", "link": "https://linkedin.com" },
+        { "platform": "Instagram", "link": "https://instagram.com" }
+      ]
+    }
+  ]
+  

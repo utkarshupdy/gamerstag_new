@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "author": "Shukla",
+
+    "title": "Free advertising for your online business",
+    "createdAt": "14/10/2024",
+    "thumbnail": "https://as2.ftcdn.net/v2/jpg/05/64/31/67/1000_F_564316725_zE8llusnCk3Sfr9rdfKya6fV7BQbjfyV.jpg",
+    "description": "Learn effective strategies for promoting your online business without spending a fortune. Discover organic marketing techniques and free tools that can help boost your visibility.",
+    "authorProfile": "https://t4.ftcdn.net/jpg/04/92/30/77/240_F_492307715_NnDCfatajhsm2F9VQJAFsJVTZGlZ1gTF.jpg",
+    "category": ["Marketing", "Business"],
+    "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet corrupti mollitia fugit autem laudantium odit modi nemo, suscipit doloremque adipisci quae fugiat pariatur totam dolor ullam quibusdam! Laudantium, explicabo obcaecati? Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis fugiat, tempore necessitatibus excepturi sit laboriosam ducimus provident, dignissimos at ipsum corporis saepe non? Molestias error totam quisquam ex molestiae nisi."
+  },
+  {
+    "id": "2",
+    "author": "Sarah Chen",
+    "title": "The Future of Web Development in 2024",
+    "createdAt": "20/10/2024",
+    "thumbnail": "https://as2.ftcdn.net/v2/jpg/04/42/21/53/1000_F_442215355_AjiR6ogucq3vPzjFAAEfwbPXYGqYVAap.jpg",
+    "description": "Explore the latest trends in web development, from AI-powered tools to new frameworks that are reshaping how we build modern applications.",
+    "authorProfile": "https://t4.ftcdn.net/jpg/04/92/30/77/240_F_492307715_NnDCfatajhsm2F9VQJAFsJVTZGlZ1gTF.jpg",
+    "category": ["Web Development", "Technology"],
+    "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet corrupti mollitia fugit autem laudantium odit modi nemo, suscipit doloremque adipisci quae fugiat pariatur totam dolor ullam quibusdam! Laudantium, explicabo obcaecati? Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis fugiat, tempore necessitatibus excepturi sit laboriosam ducimus provident, dignissimos at ipsum corporis saepe non? Molestias error totam quisquam ex molestiae nisi."
+  },
+  {
+    "id": "3",
+    "author": "Mike Johnson",
+    "title": "Mastering SEO: A Beginner's Guide",
+    "createdAt": "25/10/2024",
+    "thumbnail": "https://as2.ftcdn.net/v2/jpg/02/74/38/31/1000_F_274383102_YLcXvmM5CIuTzhkBp9rLoTMvjoFD5zrT.jpg",
+    "description": "Start your journey into Search Engine Optimization with this comprehensive guide. Learn the fundamentals of improving your website's visibility in search results.",
+    "authorProfile": "https://t4.ftcdn.net/jpg/04/92/30/77/240_F_492307715_NnDCfatajhsm2F9VQJAFsJVTZGlZ1gTF.jpg",
+    "category": ["SEO", "Technology"],
+    "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet corrupti mollitia fugit autem laudantium odit modi nemo, suscipit doloremque adipisci quae fugiat pariatur totam dolor ullam quibusdam! Laudantium, explicabo obcaecati? Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis fugiat, tempore necessitatibus excepturi sit laboriosam ducimus provident, dignissimos at ipsum corporis saepe non? Molestias error totam quisquam ex molestiae nisi."
+  },
+  {
+    "id": "4",
+    "author": "Elena Rodriguez",
+    "title": "Building Responsive Layouts with CSS Grid",
+    "createdAt": "01/11/2024",
+    "thumbnail": "https://as2.ftcdn.net/v2/jpg/02/96/64/57/1000_F_296645761_qN9bxJkPHY4tszi3caXamflMcai8gIFN.jpg",
+    "description": "Master the power of CSS Grid to create flexible and responsive website layouts. This guide includes practical examples and best practices for modern web design.",
+    "authorProfile": "https://t4.ftcdn.net/jpg/04/92/30/77/240_F_492307715_NnDCfatajhsm2F9VQJAFsJVTZGlZ1gTF.jpg",
+    "category": ["Web Design", "Technology"],
+    "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet corrupti mollitia fugit autem laudantium odit modi nemo, suscipit doloremque adipisci quae fugiat pariatur totam dolor ullam quibusdam! Laudantium, explicabo obcaecati? Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis fugiat, tempore necessitatibus excepturi sit laboriosam ducimus provident, dignissimos at ipsum corporis saepe non? Molestias error totam quisquam ex molestiae nisi."
+  },
+  {
+    "id": "5",
+    "author": "Alex Kumar",
+    "title": "Getting Started with React Hooks",
+    "createdAt": "08/11/2024",
+    "thumbnail": "https://as1.ftcdn.net/v2/jpg/05/95/73/58/1000_F_595735809_EpURQhbVePJmkHs4CfxWp9m2fEjxKSbf.jpg",
+    "description": "Dive into React Hooks and learn how they can simplify your component logic. This tutorial covers useState, useEffect, and other essential hooks for React development.",
+    "authorProfile": "https://t4.ftcdn.net/jpg/04/92/30/77/240_F_492307715_NnDCfatajhsm2F9VQJAFsJVTZGlZ1gTF.jpg",
+    "category": ["React", "Technology"],
+    "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet corrupti mollitia fugit autem laudantium odit modi nemo, suscipit doloremque adipisci quae fugiat pariatur totam dolor ullam quibusdam! Laudantium, explicabo obcaecati? Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis fugiat, tempore necessitatibus excepturi sit laboriosam ducimus provident, dignissimos at ipsum corporis saepe non? Molestias error totam quisquam ex molestiae nisi."
+  }
+]

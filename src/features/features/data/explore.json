@@ -1,0 +1,37 @@
+[
+  {
+    "id": "world-1",
+    "imgUrl": "/images/featurespage/planet-01.png",
+    "title": "Gamers"
+  },
+  {
+    "id": "world-2",
+    "imgUrl": "/images/featurespage/planet-02.png",
+    "title": "Esports Athelets"
+  },
+  {
+    "id": "world-3",
+    "imgUrl": "/images/featurespage/planet-03.png",
+    "title": "Esports Fans"
+  },
+  {
+    "id": "world-4",
+    "imgUrl": "/images/featurespage/planet-01.png",
+    "title": "Streamers and Content Creators"
+  },
+  {
+    "id": "world-5",
+    "imgUrl": "/images/featurespage/planet-01.png",
+    "title": "Esports Managers"
+  },
+  {
+    "id": "world-6",
+    "imgUrl": "/images/featurespage/planet-01.png",
+    "title": "Tournament Organizers"
+  },
+  {
+    "id": "world-7",
+    "imgUrl": "/images/featurespage/planet-01.png",
+    "title": "Sponsors And Brands"
+  }
+]

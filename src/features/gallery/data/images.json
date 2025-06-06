@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "src": "https://images.pexels.com/photos/19457056/pexels-photo-19457056/free-photo-of-tables-and-chairs-standing-outside-of-a-restaurant.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "alt": "Random Image 1"
+  },
+  {
+    "id": 2,
+    "src": "https://images.pexels.com/photos/16475273/pexels-photo-16475273/free-photo-of-urban-yellow-colonnade.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "alt": "Random Image 2"
+  },
+  {
+    "id": 3,
+    "src": "https://images.pexels.com/photos/20881841/pexels-photo-20881841/free-photo-of-big-beautiful-flower-blooming.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "alt": "Random Image 3"
+  },
+  {
+    "id": 4,
+    "src": "https://images.pexels.com/photos/29465901/pexels-photo-29465901/free-photo-of-elegant-christmas-mantel-with-candles-and-garland.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "alt": "Random Image 4"
+  },
+  {
+    "id": 5,
+    "src": "https://images.pexels.com/photos/29410748/pexels-photo-29410748/free-photo-of-vintage-car-cruising-by-the-seaside-at-sunset.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "alt": "Random Image 5"
+  },
+  {
+    "id": 6,
+    "src": "https://images.pexels.com/photos/20881841/pexels-photo-20881841/free-photo-of-big-beautiful-flower-blooming.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "alt": "Random Image 6"
+  },
+  {
+    "id": 7,
+    "src": "https://images.pexels.com/photos/29090307/pexels-photo-29090307/free-photo-of-cyclist-riding-past-parisian-building-facade.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "alt": "Random Image 7"
+  },
+  {
+    "id": 8,
+    "src": "https://images.pexels.com/photos/28811907/pexels-photo-28811907/free-photo-of-majestic-elk-standing-in-forest-clearing.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "alt": "Random Image 8"
+  },
+  {
+    "id": 9,
+    "src": "https://images.pexels.com/photos/29462439/pexels-photo-29462439/free-photo-of-ancient-roman-amphitheater-stone-arches.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "alt": "Random Image 9"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "🖊️",
+    "title": "Apply Online",
+    "description": "Fill out the application form with your details."
+  },
+  {
+    "icon": "💬",
+    "title": "Show Your Passion",
+    "description": "Tell us why you're the perfect fit for the role."
+  },
+  {
+    "icon": "📈",
+    "title": "Onboard & Train",
+    "description": "Learn everything you need to know to kickstart your journey."
+  },
+  {
+    "icon": "🏆",
+    "title": "Start Leading",
+    "description": "Build your gaming community, host events, and unlock rewards!"
+  }
+]

@@ -1,0 +1,92 @@
+{
+    "headerImage": "/path-to-header-image.jpg",
+    "headerTitle": "Terms and Conditions for GAMERS TAG",
+    "introduction": "Welcome to Gamers Tag! These Terms and Conditions govern your use of our mobile application. By accessing or using the Gamers Tag app, you agree to comply with and be bound by these terms. If you do not agree with any part of these terms, please do not use our app.",
+    "sections": [
+      {
+        "title": "1. Acceptance of Terms",
+        "content": "By downloading, installing, or using the Gamers Tag app, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions."
+      },
+      {
+        "title": "2. User Accounts",
+        "content": [
+          "a. You may need to create an account to access certain features of the app.",
+          "b. You are responsible for maintaining the confidentiality of your account information.",
+          "c. You agree to notify us immediately of any unauthorized use of your account."
+        ]
+      },
+      {
+        "title": "3. User Conduct",
+        "content": [
+          "You agree not to use the app for any unlawful purpose or in a way that could damage, disable, overburden, or impair the app.",
+          "Prohibited activities include but are not limited to:",
+          "a. Harassment or abuse of any kind.",
+          "b. Impersonating any person or entity.",
+          "c. Distributing spam or unsolicited communications.",
+          "d. Engaging in fraudulent activities.",
+          "e. Any form of hacking or unethical behavior."
+        ]
+      },
+      {
+        "title": "4. Intellectual Property Rights",
+        "content": "All content within the Gamers Tag app, including text, graphics, logos, and software, is owned by or licensed to Gamers Tag and is protected by intellectual property laws. You may not reproduce, distribute, or create derivative works from any content without our express written permission."
+      },
+      {
+        "title": "5. Privacy Policy",
+        "content": "Your privacy is important to us. We do not collect personal information such as location data, contacts, or storage access. Our Privacy Policy outlines how we handle your information and can be found within the app."
+      },
+      {
+        "title": "6. Third-Party Links",
+        "content": "The app may contain links to third-party websites or services that are not owned or controlled by Gamers Tag. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites."
+      },
+      {
+        "title": "7. Limitations of Liability",
+        "content": "To the fullest extent permitted by law, Gamers Tag shall not be liable for any indirect, incidental, special, consequential damages arising out of or in connection with your use of the app."
+      },
+      {
+        "title": "8. Indemnification",
+        "content": "You agree to indemnify and hold harmless Gamers Tag and its affiliates from any claims, losses, liabilities, damages, costs, or expenses arising from your violation of these Terms and Conditions."
+      },
+      {
+        "title": "9. Modification of Terms",
+        "content": "Gamers Tag reserves the right to modify these Terms and Conditions at any time. Changes will be effective immediately upon posting on this page. Your continued use of the app after changes constitutes acceptance of those changes."
+      },
+      {
+        "title": "10. Governing Law",
+        "content": "These Terms and Conditions shall be governed by and construed in accordance with the laws of India. Any disputes arising under these terms shall be subject to the exclusive jurisdiction of the courts located in Kochi, Kerala."
+      },
+      {
+        "title": "11. Contact Information",
+        "content": "For any questions about these Terms and Conditions or our services, please contact us at:\nEmail: contactus@gamerstag.in\nWebsite: www.gamerstag.in"
+      },
+      {
+        "title": "12. User Content",
+        "content": [
+          "a. Users may submit content (e.g., comments, feedback) through the app.",
+          "b. By submitting content, you grant Gamers Tag a non-exclusive, worldwide license to use, reproduce, modify, publish, and distribute such content."
+        ]
+      },
+      {
+        "title": "13. Termination",
+        "content": "Gamers Tag reserves the right to suspend or terminate your access to the app at our discretion without notice if you violate these terms."
+      },
+      {
+        "title": "14. Disclaimer of Warranties",
+        "content": "The app is provided on an 'as-is' basis without warranties of any kind. We do not guarantee that the app will be error-free or uninterrupted."
+      },
+      {
+        "title": "15. Payment Terms",
+        "content": "If applicable, all fees for services provided through the app will be clearly stated prior to payment processing. Users are responsible for ensuring that their payment information is accurate."
+      },
+      {
+        "title": "16. Community Guidelines",
+        "content": [
+          "Users must adhere to community guidelines while using the app:",
+          "a. Respect other users.",
+          "b. Engage in fair play during gaming activities.",
+          "c. Report any misconduct through designated channels within the app."
+        ]
+      }
+    ]
+  }
+  

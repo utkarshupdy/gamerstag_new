@@ -1,0 +1,54 @@
+[
+  {
+    "section": "join",
+    "links": [
+      { "name": "join as mentor", "url": "/mentors" },
+      { "name": "join as tournament hosting partner", "url": "/contact" },
+      { "name": "join as campus ambassador", "url": "/campus-ambassador" },
+      { "name": "work with us", "url": "/contact" }
+    ]
+  },
+  {
+    "section": "main app",
+    "links": [
+      { "name": "download app", "url": "/" },
+      { "name": "main features", "url": "/features" },
+      { "name": "our hosting games", "url": "/features" }
+    ]
+  },
+  {
+    "section": "benifits",
+    "links": [
+      { "name": "esports organization", "url": "/team" },
+      { "name": "esports player", "url": "/team" },
+      { "name": "gamer", "url": "/team" },
+      { "name": "content creator", "url": "/team" }
+    ]
+  },
+  {
+    "section": "contents",
+    "links": [
+      { "name": "gallery", "url": "/gallery" },
+      { "name": "blogs", "url": "/blogs" },
+      { "name": "news", "url": "/news" }
+    ]
+  },
+  {
+    "section": "about",
+    "links": [
+      { "name": "about us", "url": "/abouts" },
+      { "name": "mentors", "url": "/mentors" },
+      { "name": "team", "url": "/team" },
+      { "name": "incubation", "url": "/incubation" },
+      { "name": "our timeline", "url": "/blogs" }
+    ]
+  },
+  {
+    "section": "others",
+    "links": [
+      { "name": "contact us", "url": "/contact" },
+      { "name": "share your ideas", "url": "/contact" },
+      { "name": "FAQ", "url": "/faq" }
+    ]
+  }
+]

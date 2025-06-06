@@ -1,0 +1,43 @@
+[
+    {
+      "title": "Boost Your Resume",
+      "percentage": "",
+      "description":
+        "Earn an official Campus Ambassador Certificate to showcase your skills. Make your profile stand out to future employers and recruiters. ",
+      "direction": "left"
+    },
+    {
+      "title": "Career jumpstart",
+      "percentage": "",
+      "description":
+        "Get exclusive access to internships and job openeings at GAMERSTAG. Step into the esports industry with priority access to exciting roles.",
+      "direction": "right"
+    },
+    {
+      "title": "Host Legendary Events",
+      "percentage": "",
+      "description": "Plan and lead epic esports tournaments with our supprot. Make your campus the ultimate gaming hotspot!",
+      "direction": "left"
+    },
+    {
+      "title": "Get Early Access",
+      "percentage": "",
+      "description":
+        "Be the first to explore our Next-Gen Gaming Platform before it's live. Unlock exclusive mystery rewards and surprises just for ambassadors.",
+      "direction": "right"
+    },
+    {
+      "title": "Sponsor Connections",
+      "percentage": "",
+      "description":
+        "Partner with sponsors to power up your events. Get the support to make them bigger and better!",
+      "direction": "left"
+    },
+    {
+      "title": "",
+      "percentage": "",
+      "description":
+        "Promot your campus tournaments to a massive gaming community - for FREE! Boost event participation and get your college on the Esports map.",
+      "direction": "right"
+    }
+  ]

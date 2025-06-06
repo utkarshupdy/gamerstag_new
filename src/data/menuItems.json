@@ -1,0 +1,44 @@
+[
+  {
+    "label": "Vision",
+    "content": "Our Vision",
+    "top": "50%",
+    "left": "90%",
+    "url": "/about-us"
+  },
+  {
+    "label": "Portfolio",
+    "content": "Our Portfolio",
+    "top": "70%",
+    "left": "80%",
+    "url": "/portfolio"
+  },
+  {
+    "label": "People",
+    "content": "Meet the Team",
+    "top": "80%",
+    "left": "40%",
+    "url": "/people"
+  },
+  {
+    "label": "Insights",
+    "content": "Key Insights",
+    "top": "50%",
+    "left": "20%",
+    "url": "/insights"
+  },
+  {
+    "label": "Careers",
+    "content": "Join Us",
+    "top": "25%",
+    "left": "30%",
+    "url": "/careers"
+  },
+  {
+    "label": "About Us",
+    "content": "Our Company",
+    "top": "20%",
+    "left": "65%",
+    "url": "/"
+  }
+]
