@@ -10,7 +10,7 @@ import { ScrollParallax } from "react-just-parallax";
 import Button from "../small/Button";
 import Generating from "../medium/Generating";
 import Notification from "../small/Notification";
-import { heroIcons } from "../../data/heroIcons.json";
+import heroIcons from "../../data/heroIcons.json";
 
 import Section from "../small/Section";
 import Image from "next/image";
@@ -70,7 +70,7 @@ export default function Hero() {
                 <Generating className="absolute bottom-5 left-4 right-4 md:bottom-8 md:left-1/2 md:right-auto md:w-[31rem] md:-translate-x-1/2" />
                 <ScrollParallax isAbsolutelyPositioned>
                   <ul className="absolute -left-[5.5rem] bottom-[7.5rem] hidden overflow-hidden rounded-2xl border border-n-1/10 bg-n-9/40 px-1 py-1 backdrop-blur xl:flex">
-                    {heroIcons.map((icon, index) => (
+                    {heroIcons.heroIcons.map((icon, index) => (
                       <li className="p-5" key={index}>
                         <Image src={icon} width={100} height={100} alt={icon} />
                       </li>

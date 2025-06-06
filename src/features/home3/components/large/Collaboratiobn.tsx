@@ -1,6 +1,9 @@
 // import { brainmasterSymbol, check } from "../assets";
 import Image from "next/image";
-import { collabApps, collabContent, collabText } from "../../data/collab.json";
+// import { collabApps, collabContent, collabText } from "../../data/collab.json";
+// import collabApps  from "../../data/collab.json";
+import collabContent  from "../../data/collab.json";
+// import collabText  from "../../data/collab.json";
 import { LeftCurve, RightCurve } from "../../design/CollabDesign";
 import Button from "../small/Button";
 import Section from "../small/Section";
@@ -14,7 +17,7 @@ export default function Collaboration() {
             AI Chat App for seamless collaboration
           </h2>
           <ul className="mb-10 max-w-[22rem] md:mb-14">
-            {collabContent.map((item) => (
+            {collabContent.collabContent.map((item) => (
               <li className="mb-3 py-3" key={item.id}>
                 <div className="flex items-center">
                   <Image
@@ -36,7 +39,7 @@ export default function Collaboration() {
 
         <div className="mt-4 lg:ml-auto xl:w-[38rem]">
           <p className="body-2 mb-8 text-n-4 md:mb-16 lg:mx-auto lg:mb-32 lg:w-[22rem]">
-            {collabText}
+            {collabContent.collabText}
           </p>
 
           <div className="scale:75 relative left-1/2 flex aspect-square w-[22rem] -translate-x-1/2 rounded-full border border-n-6 md:scale-100">
@@ -54,7 +57,7 @@ export default function Collaboration() {
               </div>
             </div>
             <ul>
-              {collabApps.map((app, index) => (
+              {collabContent.collabApps.map((app, index) => (
                 <li
                   key={app.id}
                   className={`absolute left-1/2 top-0 -ml-[1.6rem] h-1/2 origin-bottom transition-transform hover:scale-105 rotate-${

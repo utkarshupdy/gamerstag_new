@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { notificationImages } from "../../data/notification.json";
+import notificationImages from "../../data/notification.json";
 
 const Notification = ({
   className,
@@ -27,7 +27,7 @@ const Notification = ({
 
         <div className="flex items-center justify-between">
           <ul className="-m-0.5 flex">
-            {notificationImages.map((item, index) => (
+            {notificationImages.notificationImages.map((item, index) => (
               <li
                 key={index}
                 className="flex h-6 w-6 overflow-hidden rounded-full border-2 border-n-12"
